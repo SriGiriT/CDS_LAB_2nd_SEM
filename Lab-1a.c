@@ -13,4 +13,5 @@ int main(){
     printf("\nAge          :%d", age);
     printf("\nHeight       :%d", height);
     printf("\nmobile number:%ld", mobile_no);
+    printf("hello world");
 }
